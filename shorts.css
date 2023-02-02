@@ -1,0 +1,27 @@
+.shorts{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.shorts-images a{
+color: black;
+text-decoration: none;
+}
+
+.shorts .p1{
+    color: rgb(11, 10, 10);
+    font-size: 14px;
+    font-weight: bold;
+}
+.shorts p{
+    color: rgb(110, 98, 98);
+    font-size: 12px;
+}
+
+.shorts{
+    border-top: 3px solid rgb(14, 12, 12);
+    border-bottom: 3px solid rgb(14, 12, 12);
+    border-radius: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
